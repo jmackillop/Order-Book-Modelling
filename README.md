@@ -19,4 +19,4 @@ Or for an indepth academic overview of LOBs, see the survey paper here
 https://people.maths.ox.ac.uk/porterm/papers/gould-qf-final.pdf
 where there are some good diagrams on the 3rd page.
 
-Or ask for a copy of my essay :)
+Or check out the explanation on my website at www.jmackillop.ml
